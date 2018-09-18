@@ -1,0 +1,8 @@
+name = "PyVirtualenvExample"
+uuid = "2371299a-bb0c-11e8-3393-636e7965e0b3"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyVirtualenv = "91719084-bad4-11e8-3336-8bad47a10c55"
